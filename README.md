@@ -1,3 +1,7 @@
+# Note
+
+All the contents of this folder is me learning how to use AI coding tools, I didn't write a single line myself. Though dont get me wrong, I didn't just tell it to make a whole file, I told it what functions to create what what they do and what to watch out for.
+
 # Beta-1.0
 
 This folder is full of prototypes that was thrown togethor in the time of a week or 2. Holding a weak visualEngine with who know how many bugs, and 2 versions of prototypes of a 3D modeling software.
